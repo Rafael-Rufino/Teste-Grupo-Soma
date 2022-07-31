@@ -64,7 +64,7 @@ O ideal é que o teste seja hospedado em algum lugar e também possua instruçõ
 1. Faça um clone :
 
 ```sh
-  $ git clone https://github.com/Rafael-Rufino/todo-list
+  $ git clone https://github.com/Rafael-Rufino/Teste-Grupo-Soma
 ```
 
 2. Executando a Aplicação:
@@ -76,7 +76,7 @@ O ideal é que o teste seja hospedado em algum lugar e também possua instruçõ
   $ Yarn
 
   # Inicie a aplicação web
-  $ cd too-list
+  $ cd Teste-Grupo-Soma
 
   $ yarn start
   ou
