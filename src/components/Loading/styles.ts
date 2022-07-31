@@ -4,8 +4,7 @@ export const Spinner = styled.div`
   display: flex;
   justify-content: center;
   width: 100px;
-  height: 100px;
-  /* background: conic-gradient(#0000 10%, green); */
+  height: 100px
   -webkit-mask: radial-gradient(farthest-side, #0000 cacl(100% - 10x), #0000);
   margin: 200px auto;
   border-radius: 50%;
