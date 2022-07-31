@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 import api from "../../services/api";
 
-import { FilterButton } from "../../components/FilterButton";
+import { Button } from "../../components/Button";
 import { Loading } from "../../components/Loading";
 import { IPeople } from "./interface";
 
@@ -40,9 +40,7 @@ export const ListPeople = () => {
   return (
     <Container>
       <Wrapper>
-        <FilterButton onClick={handleGenerateRandom}>
-          Generate random
-        </FilterButton>
+        <Button onClick={handleGenerateRandom}>Generate random</Button>
       </Wrapper>
       <CardList>
         {people.map((person: IPeople) => (
