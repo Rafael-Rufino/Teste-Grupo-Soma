@@ -12,6 +12,7 @@
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Usar](#como-usar)
+- [Proposta](#proposta)
 - [Como Contribuir](#como-contribuir)
 
 ## :bookmark: Sobre
@@ -27,6 +28,21 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [React]("")
 - [Styled-components]("")
 - [TypeScript]("")
+
+
+## Proposta
+
+O seu desafio aqui é consumir essa API  e mostrar de forma randômica uma resposta por vez referente a categoria em que estivermos ("films", "people", "planets", "species", "starships" ou "vehicles"), tudo de acordo com a URL em que o usuário estiver (Caso eu esteja na url "/peoples" o botão de mostrar informação randômica deve me mostrar um card de personagem randômico com os atributos a sua escolha ...e por ai vai ).
+
+Sobre a questão do layout, iremos deixar por sua conta! lembrando que css também é muito !important; e certamente será um diferencial.
+
+O fluxo base desse desafio é que ele tenha uma HOME que forneça, de alguma forma, acesso a todas as categorias fornecidas pela API e uma página onde será exibido o card com as informações e o botão que trará o card randômico.
+
+Para começar, você deve forkar esse repositório e fazer dele o seu origin para esse projeto. Dessa forma, podemos acompanhar seus commits e avaliar melhor o seu desenvolvimento.
+
+Lembrando que mesmo parecendo um desafio "simples" tudo será avaliado, desde que a forma como o consumo da API é feita até como o as pastas do projeto estão estruturadas.
+
+O ideal é que o teste seja hospedado em algum lugar e também possua instruções de utilização local em seu readme.md
 
 ## :heavy_check_mark: :iphone: Versão Desktop
 
