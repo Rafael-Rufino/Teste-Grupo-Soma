@@ -1,7 +1,7 @@
 
 <h3 align="center">
     <br><br>
-    <b> List Api é um sistema web, utilizado para consumir uma api externa!</b>  
+    <b> List Api é um sistema web, utilizado para consumir uma api externa, Atraves do botão de generate random:  ele gera cards aleatório pegando os dados da api referente a cada rota!</b>  
     <br>
 </h3>
 
@@ -37,7 +37,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :heavy_check_mark: :computer: Video da Aplicação
 
 <h1 align="center">
-    <img alt="mobile" src="./.github/video.gif" width="900px">
+    <img alt="desktop" src="./.github/video.gif" width="900px">
 </h1>
 
 
@@ -48,7 +48,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 1. Faça um clone :
 
 ```sh
-  $ git clone ""
+  $ git clone https://github.com/Rafael-Rufino/todo-list
 ```
 
 2. Executando a Aplicação:
