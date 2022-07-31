@@ -29,7 +29,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Styled-components]("")
 - [TypeScript]("")
 
-## Acessar site: https://todo-list-nu-beige.vercel.app/
+## Acessar site: https://todo-list-rafael-rufino.vercel.app/
 
 ## Proposta
 
