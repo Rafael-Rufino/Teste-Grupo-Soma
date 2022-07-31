@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 import { Container, Title, Nav } from "./styles";
 
@@ -7,23 +7,15 @@ export default function Header() {
     <Container>
       <Title>List Api</Title>
       <Nav>
-        <ul>
-          <li>
-            <Link to="/">People</Link>
-          </li>
-          <li>
-            <Link to="/films">Films</Link>
-          </li>
-          <li>
-            <Link to="/planets">Planets</Link>
-          </li>
-          <li>
-            <Link to="/species">Species</Link>
-          </li>
-          <li>
-            <Link to="/vehicles">Vehicles</Link>
-          </li>
-        </ul>
+        <NavLink to="/">People</NavLink>
+
+        <NavLink to="/films">Films</NavLink>
+
+        <NavLink to="/planets">Planets</NavLink>
+
+        <NavLink to="/species">Species</NavLink>
+
+        <NavLink to="/vehicles">Vehicles</NavLink>
       </Nav>
     </Container>
   );

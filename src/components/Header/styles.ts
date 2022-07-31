@@ -16,20 +16,22 @@ export const Title = styled.h1`
 `;
 
 export const Nav = styled.nav`
-  ul {
-    display: flex;
-    justify-content: space-between;
-  }
-  ul li {
-    display: flex;
-  }
+  display: flex;
+  justify-content: space-between;
 
-  li a {
+  a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: ${theme.colors.heading};
     font-size: 1.125rem;
     text-decoration: none;
 
     &:hover {
+      color: ${theme.colors.green};
+    }
+
+    &.active {
       color: ${theme.colors.green};
     }
   }
