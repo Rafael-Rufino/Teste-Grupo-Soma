@@ -1,46 +1,89 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">
+    <br><br>
+    <b> List Api é um sistema web, utilizado para consumir uma api externa!</b>  
+    <br>
+</h3>
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `yarn start`
+# Índice
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Sobre](#sobre)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Usar](#como-usar)
+- [Como Contribuir](#como-contribuir)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## :bookmark: Sobre
+O <strong>List Api</strong> é um projeto teste do Grupo Soma, utilizado para validar os conhecimentos dos candidatos.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a id="tecnologias-utilizadas"></a>
 
-### `yarn build`
+## :rocket: Tecnologias Utilizadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [React]("")
+- [Styled-components]("")
+- [TypeScript]("")
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :heavy_check_mark: :iphone: Versão Desktop
 
-### `yarn eject`
+<h1 align="center">
+    <img alt="home" src="./.github/home.png" width="900px">
+</h1>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :heavy_check_mark: :computer: Video da Aplicação
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h1 align="center">
+    <img alt="mobile" src="./.github/video.gif" width="900px">
+</h1>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<a id="como-usar"></a>
 
-## Learn More
+## :fire: Como usar
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Faça um clone :
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+  $ git clone ""
+```
+
+2. Executando a Aplicação:
+
+```sh
+  # Instale as dependências
+  $ npm install 
+  ou 
+  $ Yarn
+
+  # Inicie a aplicação web
+  $ cd too-list
+
+  $ yarn start
+  ou
+  $ npm run start
+
+```
+
+<a id="como-contribuir"></a>
+
+
+# :recycle: Como contribuir
+
+- Faça um Fork desse repositório,
+- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
+
+
+## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+
+<h4 align="center">
+    Feito com 💜 by <a href="https://portfolio-rafael-rufino.vercel.app/" target="_blank">Rafael Rufino</a>
+</h4>
