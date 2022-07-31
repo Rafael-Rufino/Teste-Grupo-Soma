@@ -1,7 +1,7 @@
 
 <h3 align="center">
     <br><br>
-    <b> List Api é um sistema web, utilizado para consumir uma api externa, Atraves do botão de generate random:  ele gera cards aleatório pegando os dados da api referente a cada rota!</b>  
+    <b> List Api é um sistema web, utilizado para consumir uma api externa, Atraves do botão de generate random:  ele gera cards randomico referente a categoria!</b>  
     <br>
 </h3>
 
@@ -29,6 +29,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Styled-components]("")
 - [TypeScript]("")
 
+## Acessar site: https://todo-list-nu-beige.vercel.app/
 
 ## Proposta
 
